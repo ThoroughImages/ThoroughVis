@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<div align=center><img alt="ThoroughVis" width="400" src="https://raw.githubusercontent.com/ThoroughImages/ThoroughVis/master/resources/ThoroughVis.png"/></div>
+<div align=center><img alt="ThoroughVis" width="400" src="https://raw.githubusercontent.com/ThoroughImages/ThoroughVis/master/figs/ThoroughVis.png"/></div>
 
 #### East to Use
 
